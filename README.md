@@ -1,6 +1,6 @@
-# 📚 Learner and Employee Management System (LEMS)
+![image](https://github.com/user-attachments/assets/7902797b-e4f0-4217-bbc4-179da016920a)# 📚 Learner and Employee Management System (LEMS)
 
-**LEMS** is a web-based platform developed to modernize and streamline key school administrative tasks. This system enables digital attendance logging, role-based access for different users (Admin, Employee, Learner), OTP-secured registration, and targeted announcement dissemination — all within a clean, responsive Laravel-powered interface.
+LEMS is a Laravel-based web platform that simplifies school administrative tasks through QR code attendance, role-based access, OTP-secured email registration, and targeted email announcements — all in a responsive user interface.
 
 > "Build systems not just for grades, but for real-world impact."
 
@@ -10,7 +10,7 @@
 
 - 📌 QR Code-based learner attendance logging  
 - 👤 Role-based access control (Admin, Employee, Learner)  
-- 📧 Email-based announcement system (filter by grade level and section)  
+- 📧 Email-based announcement system (filter by users or grade level and section)  
 - 🔐 Email OTP verification for registration  
 - 📊 Dashboard and user management  
 - ✅ Responsive and mobile-friendly UI  
@@ -22,7 +22,7 @@
 
 - **Laravel 12**  
 - **PHP 8+**  
-- **MySQL / MariaDB**  
+- **MySQL**  
 - **Bootstrap 5**  
 - **Spatie Laravel Permission** – for role and permission management  
 - **Laravel Breeze** – for authentication scaffolding  
@@ -39,7 +39,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/leonardtdomingovida/lems.git
+git clone https://github.com/leonardtdomingovida/Learner-and-Employee-Management-System.git
 cd lems
 
 # 2. Install PHP dependencies
@@ -68,6 +68,9 @@ php artisan serve
 👨‍💻 Developer:
 Leonard Domingo
 
-## License
+## 📄 License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+The Laravel framework used in this project is also licensed under the MIT license.
+
