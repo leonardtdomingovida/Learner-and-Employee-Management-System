@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7902797b-e4f0-4217-bbc4-179da016920a)# 📚 Learner and Employee Management System (LEMS)
+# 📚 Learner and Employee Management System (LEMS)
 
 LEMS is a Laravel-based web platform that simplifies school administrative tasks through QR code attendance, role-based access, OTP-secured email registration, and targeted email announcements — all in a responsive user interface.
 
